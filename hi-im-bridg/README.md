@@ -9,7 +9,7 @@
   * [Contributing](#Contributing)
 
   # Visual
-
+    <img src="./src/images/about.png">
  
  
   # Description
@@ -18,7 +18,7 @@
   ## User Story :book:
   ```
   AS a developer
-  I WANT to showcasemy work 
+  I WANT to showcase my work 
   SO THAT I can get a job as a full stack web developer
 
   ```
@@ -27,7 +27,7 @@
   No installation, simply navigate to the deployed application
 
   ## Deployed 
-  https://tinder-clone-1a5ac.web.app
+   https://bridgetvon.github.io/hi-im-bridg/
 
   ## License :credit_card:
   * License Type: N/A
