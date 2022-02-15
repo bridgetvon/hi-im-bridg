@@ -138,11 +138,17 @@ button {
   display: flex;
   padding: 17%;
   flex-wrap: wrap;
+
+ 
 }
 
 #contact-info {
  width: 45%;
  padding: 5%;
+
+ @media screen (max-width: 800px ) {
+  padding: 10px;
+ }
 }
 
 #contact-div {
@@ -163,7 +169,7 @@ button {
   padding: 2%;
 }
 
-.main {
+/* .main {
   width: 50%;
   height: 60%;
   flex-grow: inherit;
@@ -174,7 +180,7 @@ button {
   flex: 4;
   flex-wrap: wrap;
   flex-direction: column;
-}
+} */
 
 .flex-two {
   display: flex;

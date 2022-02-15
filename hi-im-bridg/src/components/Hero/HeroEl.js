@@ -9,6 +9,11 @@ padding: 0 30px;
 height: 800px;
 position: relative;
 z-index: 1;
+
+@media screen and (max-width: 760px) {
+    height: 750px;
+    padding: 0px 20px;
+}
 `
 
 export const HeroBg = styled.div`
@@ -30,6 +35,11 @@ padding: 8px 24px;
 display: flex;
 flex-direction: column;
 align-items: center;
+
+@media screen and (max-width: 760px) {
+    max-width: 600px;
+    padding: 3px 8px;
+}
 `
 
 

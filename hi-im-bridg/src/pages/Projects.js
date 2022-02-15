@@ -6,7 +6,7 @@ function Projects() {
   <>
  <ReactStack />
   <section id="my-work">
-      <h1 style={{color: "#27405d"}}>Take a look at my work</h1>
+      <h1 style={{color: "#27405d"}}>Take a closer look at my work</h1>
       <div className="portfolio">
           <div class="main">
               <h3>Randonné</h3>
