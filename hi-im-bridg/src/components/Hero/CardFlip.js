@@ -29,7 +29,7 @@ class Card extends React.Component {
           <div style={{ border: "1px solid #cccc", width: "500px", height: "250px"}}>
            <p className="abt-txt" onClick={this.handleClick}>I'm Bridget, I completed a full stack boot camp at the University 
            of Utah in February. I have a previous degree in geology but I have discovered that web development 
-           is truly my passion! I am available to work as soon as possible. My favorite technologies/languages include React, Mongo, javascript and Apollo server. I cannot wait
+           is truly my passion! I am available to work as soon as possible. My favorite technologies/languages include React, Mongo, javaScript and GraphQl. I cannot wait
            to continue learning and broaden my skill-set. 
            </p>
           </div>

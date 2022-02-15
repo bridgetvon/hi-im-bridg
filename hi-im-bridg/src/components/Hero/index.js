@@ -18,10 +18,10 @@ function Hero() {
                   typewriter
 
                   .typeString("Hi I'm Bridget")
-                  .pauseFor(1000)
+                  .pauseFor(500)
                   .deleteAll()
                   .typeString("Rock climber, skier and...")
-                  .pauseFor(1000)
+                  .pauseFor(500)
                   .deleteAll()
                   .typeString("full stack web developer! Click the image to learn more about me.")
                   .start();
