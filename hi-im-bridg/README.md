@@ -9,7 +9,7 @@
   * [Contributing](#Contributing)
 
   # Visual
-    <img src="./src/images/about.png">
+ <img src="./src/images/about.png">
  
  
   # Description
