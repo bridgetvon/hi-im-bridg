@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hi-im-bridg/static/css/main.a9933a9b.css",
+    "main.js": "/hi-im-bridg/static/js/main.e2891684.js",
+    "static/js/787.c1b5f11d.chunk.js": "/hi-im-bridg/static/js/787.c1b5f11d.chunk.js",
+    "static/media/hex-img.svg": "/hi-im-bridg/static/media/hex-img.d412ba4011eac1108e3ebe6986d9b233.svg",
+    "static/media/randonnee.png": "/hi-im-bridg/static/media/randonnee.93b36877d4813a37ab1f.png",
+    "static/media/weather-dash.png": "/hi-im-bridg/static/media/weather-dash.a0d9df59bcbea910ec47.png",
+    "static/media/moon-phase.png": "/hi-im-bridg/static/media/moon-phase.5a96dabccbd640a85a8c.png",
+    "static/media/pexels-joyston-judah-933054.jpg": "/hi-im-bridg/static/media/pexels-joyston-judah-933054.b73228d7a43abdba2c6b.jpg",
+    "static/media/tinder-clone.png": "/hi-im-bridg/static/media/tinder-clone.c5880d2f88d017a41d3b.png",
+    "static/media/password-generator.png": "/hi-im-bridg/static/media/password-generator.0011969cc74593b68fe6.png",
+    "static/media/Bridget-Schaefer-web.pdf": "/hi-im-bridg/static/media/Bridget-Schaefer-web.3e5ce35f9b5f84e1bed4.pdf",
+    "index.html": "/hi-im-bridg/index.html",
+    "main.a9933a9b.css.map": "/hi-im-bridg/static/css/main.a9933a9b.css.map",
+    "main.e2891684.js.map": "/hi-im-bridg/static/js/main.e2891684.js.map",
+    "787.c1b5f11d.chunk.js.map": "/hi-im-bridg/static/js/787.c1b5f11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9933a9b.css",
+    "static/js/main.e2891684.js"
+  ]
+}
