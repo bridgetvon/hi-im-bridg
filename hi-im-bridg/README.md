@@ -1,4 +1,4 @@
-# tinder-clone :blue_heart:
+# Hi im Bridget! :wave:
 
   ### By bridgetvon * [Email me](bridget.schaefer31@gmail.com) * 
 
