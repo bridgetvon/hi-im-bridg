@@ -6,7 +6,7 @@ function Projects() {
   <>
  <ReactStack />
   <section id="my-work">
-      <h1 style={{color: "#27405d"}}>Take a closer look at my work</h1>
+      <h1 style={{color: "#27405d"}}>Take a closer look at my work, click the images to view the projects</h1>
       <div className="portfolio">
           <div class="main">
               <h3>Randonné</h3>
@@ -40,7 +40,7 @@ function Projects() {
           </div>
           <div className="work-title">
               <h3>Password Generator</h3>
-              <a href="https://github.com/bridgetvon/js-password-generator" class="work-item">
+              <a href="https://bridgetvon.github.io/js-password-generator/" class="work-item">
                   <img src={require('../images/password-generator.png')} alt="moon phase homepage" class="work-img"></img>
               </a>
               <h4>javaScript</h4>
