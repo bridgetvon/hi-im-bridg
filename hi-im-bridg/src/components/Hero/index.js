@@ -16,7 +16,6 @@ function Hero() {
               <Typewriter
               onInit = { (typewriter) => {
                   typewriter
-
                   .typeString("Hi I'm Bridget")
                   .pauseFor(500)
                   .deleteAll()

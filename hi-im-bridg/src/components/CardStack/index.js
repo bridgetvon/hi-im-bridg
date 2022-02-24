@@ -5,6 +5,7 @@ import MoonPhase from '../../images/moon-phase.png';
 import WeatherDash from '../../images/weather-dash.png';
 import Password from '../../images/password-generator.png';
 import TinderClone from '../../images/tinder-clone.png';
+import Routes from '../../images/routes.png';
 import { TinderLikeCard } from 'react-stack-cards'
 
 
@@ -25,7 +26,7 @@ class Stack extends React.Component {
 
  
   render() {
-    const arr = [TinderClone, Randonne, MoonPhase, WeatherDash, Password]
+    const arr = [Routes, TinderClone, Randonne, MoonPhase, WeatherDash, Password]
     return (
       <div id="stack" onClick={this.onTinderSwipe.bind(this)} >
         <TinderLikeCard 

@@ -10,6 +10,14 @@ function Projects() {
       <div className="portfolio">
           <div class="main">
               <h3>Randonné</h3>
+              <a href="https://glowing-sporky-routes.herokuapp.com/" class="work-item">
+                  <img src={require('../images/routes.png')} alt="randonne homepage" class="work-img"></img>
+              </a>
+              <h4>React, mongoDb, mongoose, apollo Server, graphQl, firebase</h4>
+          </div>
+      <div className="portfolio">
+          <div class="main">
+              <h3>Randonné</h3>
               <a href="https://enigmatic-bayou-07532.herokuapp.com/all-profile" class="work-item">
                   <img src={require('../images/randonnee.png')} alt="randonne homepage" class="work-img"></img>
               </a>
@@ -46,6 +54,7 @@ function Projects() {
               <h4>javaScript</h4>
            </div>
           </div>
+      </div>
       </div>
   </section>
   </>
