@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardGroup, Button, ListGroup, ListItem, Row, Col, Container } from 'react-bootstrap';
-import resumePdf from '../images/Bridget-Schaefer-web.pdf';
+import resumePdf from '../images/bridget-resume.pdf';
 import "../App.css";
 
 function Resume() {
@@ -44,7 +44,7 @@ function Resume() {
                             <Card.Title className="resume-head">
                                   <h2 className='res-title'> Work Experience </h2>
                                     </Card.Title>
-                                <Card.Header className="resume-head">The Corner Store</Card.Header>
+                                <Card.Header className="resume-head">CTl Thompson</Card.Header>
                                 <Card.Body className="resume-box">
                                     <Card.Title id="res-list" className="resume-head">May 2019- August 2021</Card.Title>
     
@@ -67,11 +67,8 @@ function Resume() {
     
                                     <Card.Title id="res-list" className="resume-head">Responsibilities: </Card.Title>
                                     <ListGroup className="resume-box" variant="flush">
-                                        <ListGroup.Item id="res-list">Test, observe, and facilitate on-site operations to ensure building materials were at engineering and safety standards</ListGroup.Item>
-                                        <ListGroup.Item id="res-list">Offered recommendations on material processing improvements</ListGroup.Item>
-                                        <ListGroup.Item id="res-list">Communicate with project managers, superintendents and office staff and create daily field present reports stating operations, issues and any relevant information.</ListGroup.Item>
-                                        <ListGroup.Item id="res-list"> Promoted to lead trainer after six months</ListGroup.Item>
-                                        <ListGroup.Item id="res-list"> Was given the largest job site at the company on top of additional job sites I conducted testing for</ListGroup.Item>    
+                                        <ListGroup.Item id="res-list">Provide excellent customer service while multi-tasking bartending serving and bussing in a high traffic environment </ListGroup.Item>
+                                        <ListGroup.Item id="res-list">Communicating with coworkers, managers and customers to ensure that the best service is given</ListGroup.Item>  
                                     </ListGroup>
                                 </Card.Body>
                             </Card.Body>
